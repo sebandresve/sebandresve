@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sebastián</h1>
-<h3 align="center">💻 Backend Developer and Frontend junior | Learning and improving every day 🌞</h3>
+<h3 align="center">💻 Fullstack Developer | Learning and improving every day 🌞</h3>
 
 ## 🛠 Tech Stack  
 
